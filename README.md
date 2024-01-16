@@ -80,5 +80,5 @@
         <p>&copy; 2024 EVKenya.com. All rights reserved.</p>
     </footer>
 
-</body>
+</EVKENYA>
 </html>
